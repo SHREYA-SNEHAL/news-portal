@@ -16,19 +16,7 @@ type Article = {
   image: string;
 };
 
-/**
- * Important note about Next.js App Router vs Pages Router:
- *
- * - In the pages/ router you would use getStaticPaths + getStaticProps to statically
- *   generate article pages at build time.
- *
- * - In the app/ router the equivalents are:
- *    - generateStaticParams => similar to getStaticPaths
- *    - fetching/importing data within the server component at build time (or using fetch with cache) =>
- *      similar to getStaticProps
- *
- * Below we implement generateStaticParams to pre-render article pages at build time.
- */
+
 
 // generateStaticParams builds the list of route params at build time.
 // Equivalent purpose to getStaticPaths in the pages router.
