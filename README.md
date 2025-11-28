@@ -27,7 +27,7 @@ Notes:
 ##  Part B – Design Explanation + Documentation
 
 ### 1. Wireframe / Layout Overview 
-
+![Home Page](screenshot/Home.jpeg)
 The homepage follows a typical news portal layout:
 - **Top navbar** with categories (Home, Politics, Sports, Entertainment, Business), Search bar, and Dark Mode toggle.
 - **Featured news / hero section** highlighting the top story with a large image and bold headline.
