@@ -1,0 +1,2 @@
+This project uses unsigned remote images from Unsplash for demo purposes.
+In production, host images locally or use a proper CDN and set allowed domains in next.config.js.

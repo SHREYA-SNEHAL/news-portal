@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "slug": "india-wins-marathon-of-development",
+    "title": "India's Development Marathon: New Infrastructure Projects Gain Momentum",
+    "summary": "Major infrastructure projects across the country are being accelerated, focusing on connectivity and green energy.",
+    "content": "<p>In a major push for infrastructure development, government initiatives and private investments are focusing on roads, rails, and renewable energy projects. Several states reported increased employment and faster timelines.</p><p>Experts believe sustained policy support and streamlined approvals have positioned these projects for faster execution. The aim is to connect remote regions and boost economic activity.</p>",
+    "author": "Ramesh Kumar",
+    "date": "2025-11-20T08:30:00Z",
+    "category": "Politics",
+    "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200&q=80"
+  },
+  {
+    "id": "2",
+    "slug": "shahenshah-of-cricket-dazzles",
+    "title": "Shahenshah of Cricket Dazzles in Last Night's Match",
+    "summary": "A spectacular century and match-winning partnership stole the show at the stadium.",
+    "content": "<p>The crowd went wild as the star batter smashed a brilliant century, leading the team to a thrilling victory. Analysts called it one of the finest displays of technique and temperament.</p><p>With this performance, the player solidified his position as one of the modern greats.</p>",
+    "author": "Anita Desai",
+    "date": "2025-11-25T18:00:00Z",
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=1200&q=80"
+  },
+  {
+    "id": "3",
+    "slug": "celebrity-couple-announces-new-project",
+    "title": "Celebrity Couple Announces New Joint Film Project",
+    "summary": "The much-loved duo hinted at a collaboration blending romance and social themes.",
+    "content": "<p>The announcement stirred excitement among fans, promising a film that mixes mainstream appeal with meaningful storytelling. Filming is expected to start next spring.</p>",
+    "author": "Priya Nair",
+    "date": "2025-11-23T10:15:00Z",
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=1200&q=80"
+  },
+  {
+    "id": "4",
+    "slug": "market-weekly-wrap",
+    "title": "Market Weekly Wrap: Stocks Rally on Tech Gains",
+    "summary": "Indices closed higher as technology stocks led a broad-based rally, while analysts caution on valuations.",
+    "content": "<p>Markets responded positively to earnings beats from several major tech firms. Investors remain watchful for upcoming policy cues and earnings reports.</p>",
+    "author": "Sanjay Arora",
+    "date": "2025-11-24T14:00:00Z",
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=1200&q=80"
+  },
+  {
+    "id": "5",
+    "slug": "local-heroes-clean-up-drive-success",
+    "title": "Local Heroes: Community Clean-up Drive Sees Huge Turnout",
+    "summary": "Volunteers across the city participated in an environmental clean-up that removed tons of waste.",
+    "content": "<p>Residents and student groups joined hands to clean public spaces, highlighting the power of community-driven action. Organizers plan to make this a monthly event.</p>",
+    "author": "Meera Singh",
+    "date": "2025-11-22T09:00:00Z",
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&q=80"
+  },
+  {
+    "id": "6",
+    "slug": "innovation-in-agriculture-smart-farming",
+    "title": "Innovation in Agriculture: Smart Farming Takes Root",
+    "summary": "Small farmers adopt tech tools to increase yields and reduce water usage, showing early success.",
+    "content": "<p>From sensors to AI-driven recommendations, technology is enabling farmers to optimize inputs and reduce costs. Pilot programs reported yield improvements and resource savings.</p>",
+    "author": "Arvind Patel",
+    "date": "2025-11-21T11:30:00Z",
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=1200&q=80"
+  },
+  {
+    "id": "7",
+    "slug": "state-election-roundup",
+    "title": "State Election Roundup: Early Signs, Major Battles Ahead",
+    "summary": "As campaigning intensifies, parties focus on local issues and coalition math.",
+    "content": "<p>Polling patterns suggest tight races in several constituencies. Observers say turnout and localized issues will be decisive factors.</p>",
+    "author": "Neha Verma",
+    "date": "2025-11-18T07:45:00Z",
+    "category": "Politics",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80"
+  },
+  {
+    "id": "8",
+    "slug": "upcoming-tech-conference-spotlight",
+    "title": "Upcoming Tech Conference To Spotlight AI Ethics",
+    "summary": "Organizers announced panels and workshops focusing on responsible AI adoption.",
+    "content": "<p>Industry leaders, academics and policymakers will gather to discuss the challenges and opportunities in AI governance and ethics.</p>",
+    "author": "Karan Malhotra",
+    "date": "2025-11-26T09:00:00Z",
+    "category": "Technology",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80"
+  }
+]
