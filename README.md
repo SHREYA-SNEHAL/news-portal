@@ -1,5 +1,5 @@
-```markdown
-**NewsAPP**
+
+## NewsAPP
 
 Next.js 14 + TailwindCSS + TypeScript demo project that replicates a front-page news portal.
 
@@ -21,7 +21,7 @@ Run:
 Notes:
 - In the Next.js App Router (app/), static generation is done using `generateStaticParams` (equivalent to getStaticPaths).
   and server static fetch (equivalent to getStaticProps). The code explains this in comments.
-```
+
 ---
 
 ##  Part B – Design Explanation + Documentation
@@ -60,8 +60,11 @@ Used **Static Generation** via:
 - **CategorySection** — sidebar category UI.
 - **Footer** — bottom information area.
 - **Category Page** (`/category/[cat]`).
+![Category Page](screenshot/Category.jpeg)
 - **Search Page** (`/search`).
+![Search Page](screenshot/Search.jpeg)
 - **Article Page** (`/news/[slug]`).
+![Article Page](screenshot/Article.jpeg)
 
 ### 5. Data Model
 Each article object contains:
